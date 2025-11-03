@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1734549432 source:d:\c++ workspace\game\src\main.cpp
+	<iostream>
+	<limits>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<algorithm>
+	<iomanip>
+
+1732268526 d:\c++ workspace\game\include\card.h
+	<iostream>
+
+1732268489 d:\c++ workspace\game\include\standardcard.h
+	"Card.h"
+
+1732268504 d:\c++ workspace\game\include\bonuscard.h
+	"Card.h"
+
+1732268515 d:\c++ workspace\game\include\penaltycard.h
+	"Card.h"
+
+1734552546 source:d:\submissions\cardmemorygame\game\game\src\main.cpp
+	<iostream>
+	<limits>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<vector>
+	<algorithm>
+
